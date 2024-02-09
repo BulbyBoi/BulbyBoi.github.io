@@ -1,0 +1,20 @@
+
+
+<!-- Basic HTML Structure -->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Bulbasaur</title>
+</head>
+<body>
+    <table></table>
+    
+    <p>Bulbasaur is a quadrupedal Pokemon. 
+        It is first shown in the games Pokemon Red and Green (1996) where it acts as the grass-type starter
+        It eventually evolves into Ivysaur at Level 16 and Venusaur at Level 36.
+    </p>
+</body>
+
+</html>
