@@ -29,7 +29,7 @@ height: auto;
 margin: 1em;
 padding: 1em;
 
-font-size: x-large;
+font-size: 1.2rem;
 font-family: Helvetica, sans-serif;
 color: white;
 text-align: justify;
@@ -44,7 +44,7 @@ font-size: 5em;}
 
 b{color:rgb(255, 175, 47);}
 th{
-    font-size: xx-large;
+    font-size: 2rem;
 font-family: 'Segoe UI';
 color: rgb(193, 211, 0);
 text-align: justify;
@@ -53,7 +53,7 @@ font-weight: 700;
 }
 tr, td{
 padding: 1em;
-    font-size: larger;
+    font-size: 1.2rem;
 font-family: 'Segoe UI';
 color: rgb(255, 255, 255);
 text-align: justify;

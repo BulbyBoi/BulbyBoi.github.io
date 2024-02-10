@@ -6,7 +6,7 @@ height: 15em;
     background-blend-mode: multiply;
     background-size: 100%, 100%;
     background-attachment: fixed;
-    background-position-y: -15em;
+    background-position-y: -30em;
 padding-top: 5em;
 margin: 0em;}
 
@@ -29,7 +29,7 @@ height: auto;
 margin: 1em;
 padding: 1em;
 
-font-size: x-large;
+font-size: 1.2rem;
 font-family: Helvetica, sans-serif;
 color: white;
 text-align: justify;
@@ -44,7 +44,7 @@ font-size: 5em;}
 
 b{color:rgb(47, 179, 255);}
 th{
-    font-size: xx-large;
+    font-size: 2rem;
 font-family: 'Segoe UI';
 color: rgb(0, 197, 211);
 text-align: justify;
@@ -53,7 +53,7 @@ font-weight: 700;
 }
 tr, td{
 padding: 1em;
-    font-size: larger;
+    font-size: 1.2rem;
 font-family: 'Segoe UI';
 color: rgb(255, 255, 255);
 text-align: justify;
