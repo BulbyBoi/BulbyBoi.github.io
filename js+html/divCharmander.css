@@ -1,0 +1,9 @@
+.flexDisplay{ display: flex; flex-direction: column;}
+.a{order: 1;}
+.b{order: 2;}
+table {
+    table-layout: fixed;
+    width: 100rem;
+    height: auto;
+
+  }
